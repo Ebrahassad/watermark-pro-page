@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1100">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#F5F3FF"/><stop offset="1" stop-color="#EEF4FF"/>
+</linearGradient>
+</defs>
+<rect width="700" height="1100" rx="55" fill="#101828"/>
+<rect x="35" y="35" width="630" height="1030" rx="45" fill="url(#bg)"/>
+<circle cx="350" cy="75" r="7" fill="#98A2B3"/>
+<text x="120" y="150" fill="#98A2B3" font-size="22" font-family="Arial">STEP 1</text>
+<text x="120" y="225" fill="#101828" font-size="40" font-weight="700" font-family="Arial">Choose Photos</text>
+<text x="120" y="270" fill="#667085" font-size="23" font-family="Arial">Select your images</text>
+<rect x="90" y="330" width="520" height="380" rx="30" fill="#D9D6FE"/>
+<rect x="125" y="365" width="450" height="310" rx="20" fill="#98A2B3"/>
+<circle cx="350" cy="520" r="80" fill="#6941C6" opacity=".85"/>
+<path d="M300 560 L350 500 L390 535 L430 490" fill="none" stroke="white" stroke-width="18" stroke-linecap="round"/>
+<rect x="120" y="770" width="460" height="65" rx="16" fill="#FFFFFF"/>
+<rect x="120" y="860" width="220" height="62" rx="16" fill="#101828"/>
+<rect x="360" y="860" width="220" height="62" rx="16" fill="#FFFFFF" stroke="#D0D5DD"/>
+</svg>
